@@ -1,658 +1,658 @@
-,Type,Name
-0,Boss,Stone Talus
-1,Boss,Stone Talus (Junior)
-2,Boss,Stone Talus (Senior)
-3,Boss,Stone Talus (Luminous)
-4,Boss,Stone Talus (Rare)
-5,Boss,Igneo Talus
-6,Boss,Frost Talus
-7,Boss,Hinox
-11,Boss,Blue Hinox
-12,Boss,Black Hinox
-13,Boss,Stalnox
-14,Boss,Molduga
-15,Boss,Igneo Talus Titan
-16,Boss,Molduking
-17,Boss,Windblight Ganon
-18,Boss,Fireblight Ganon
-19,Boss,Thunderblight Ganon
-20,Boss,Waterblight Ganon
-21,Boss,Master Kohga
-22,Boss,Monk Maz Koshia
-23,Boss,Calamity Ganon
-24,Boss,Dark Beast Ganon
-25,Ally,Baddek
-26,Ally,Bamboo
-27,Ally,Banji
-28,Ally,Baumar
-29,Ally,Bayge
-30,Ally,Beedle
-31,Ally,Bolson
-32,Ally,Brigo
-33,Ally,Cambo
-34,Ally,Chabi
-35,Ally,Chork
-36,Ally,Chumin
-37,Ally,Dabi
-38,Ally,Daruk
-39,Ally,Dauntless
-40,Ally,Dinraal
-41,Ally,Ena
-42,Ally,Endai
-43,Ally,Epona
-44,Ally,Farosh
-45,Ally,Fyson
-46,Ally,Goflam
-47,Ally,Greyson
-48,Ally,Heehl
-49,Ally,Hestu
-50,Ally,Hudson
-51,Ally,Hylia
-52,Ally,Kabetta
-53,Ally,Kanny
-54,Ally,Kapson
-55,Ally,Karson
-56,Ally,Kass
-57,Ally,Kenyo
-58,Ally,Kilton
-59,Ally,Leekah
-60,Ally,Link
-61,Ally,Meeshy
-62,Ally,Meghyn
-63,Ally,Mei
-64,Ally,Mils
-65,Ally,Mina
-66,Ally,Mipha
-67,Ally,Misko
-68,Ally,Nat
-69,Ally,Naydra
-70,Ally,Nazbi
-71,Ally,Pelison
-72,Ally,Pikango
-73,Ally,Regan
-74,Ally,Revali
-75,Ally,Rhondson
-76,Ally,Rik
-77,Ally,Ronn
-78,Ally,Savelle
-79,Ally,Sherfin
-80,Ally,Sho
-81,Ally,Sorelia
-82,Ally,Spoone
-83,Ally,Toren
-84,Ally,Totsuna
-85,Ally,Tye
-86,Ally,Urbosa
-87,Ally,Yammo
-88,Ally,Princess Zelda
-89,Ally,Zyle
-90,Ally,Laroba
-91,Ally,Naddon
-92,Ally,Pitar
-93,Ally,Dah Hesho
-94,Ally,Dmitri
-95,Ally,Gleema
-96,Ally,Jana
-97,Ally,Kah Mael
-98,Ally,Kaifa
-99,Ally,Ke'nai Shakah
-100,Ally,Lonni
-101,Ally,Nell
-102,Ally,Rex
-103,Ally,Stamm
-104,Ally,Tenne
-105,Ally,Tutsuwa Nima
-106,Ally,Ze Kasho
-107,Ally,Granté
-108,Ally,Hagie
-109,Ally,Hunnie
-110,Ally,Moggs
-111,Ally,Monari
-112,Ally,Ruli
-113,Ally,Ritaag Zumo
-114,Ally,Tu Ka'loh
-115,Ally,Aya
-116,Ally,Cherry
-117,Ally,Hoz
-118,Ally,Jerrin
-119,Ally,Katosa Aug
-120,Ally,Khini
-121,Ally,Nobo
-122,Ally,Robbie
-123,Ally,Rudi
-124,Ally,Zuna Kai
-125,Ally,Glendo
-126,Ally,King Rhoam
-127,Ally,Etsu Korima
-128,Ally,Ja Baij
-129,Ally,Keh Namut
-130,Ally,Old Man
-131,Ally,Oman Au
-132,Ally,Owa Daim
-133,Ally,Rohta Chigah
-134,Ally,Ruvo Korbah
-135,Ally,Yowaka Ita
-136,Ally,Aliza
-137,Ally,Benny
-138,Ally,Bosh Kala
-139,Ally,Botrick
-141,Ally,Canni
-142,Ally,Dah Kaso
-143,Ally,Dai
-144,Ally,Gotter
-145,Ally,Haite
-146,Ally,Kaam Ya'tak
-147,Ally,Katah Chuki
-148,Ally,Monya Toma
-149,Ally,Myti
-150,Ally,Namika Ozz
-151,Ally,Noya Neha
-152,Ally,Parcy
-153,Ally,Rota Ooh
-154,Ally,Saas Ko'sah
-155,Ally,Toffa
-156,Ally,Trott
-157,Ally,Wahgo Katta
-158,Ally,Zalta Wa
-159,Ally,Branli
-160,Ally,Konba
-161,Ally,Maag No'rah
-162,Ally,Mijah Rokee
-163,Ally,Mogg Latan
-164,Ally,Shira Gomar
-165,Ally,Toh Yahsa
-166,Ally,Yunobo
-167,Ally,Ashe
-168,Ally,Axyl
-169,Ally,Bladon
-170,Ally,Bohrin
-171,Ally,Boldon
-172,Ally,Breen
-173,Ally,Daqa Koh
-174,Ally,Dayto
-175,Ally,Dorill
-176,Ally,Douma
-177,Ally,Drak
-178,Ally,Dugby
-179,Ally,Fin
-180,Ally,Gaile
-181,Ally,Gonguron
-182,Ally,Gorae Torr
-183,Ally,Grapp
-184,Ally,Jengo
-185,Ally,Kairo
-186,Ally,Karsh
-187,Ally,Kayra Mah
-188,Ally,Kima
-189,Ally,Kish
-190,Ally,Mayro
-191,Ally,Mirro Shaz
-192,Ally,Mo'a Keet
-193,Ally,Molo
-194,Ally,Offrak
-195,Ally,Ozunda
-196,Ally,Qua Raym
-197,Ally,Russ
-198,Ally,Sah Dahaj
-199,Ally,Shamae
-200,Ally,Shora Hah
-201,Ally,Tah Muhl
-202,Ally,Zorona
-203,Ally,Aji
-204,Ally,Bargoh
-205,Ally,Bludo
-206,Ally,Fugo
-207,Ally,Krane
-208,Ally,Pyle
-209,Ally,Ramella
-210,Ally,Rogaro
-211,Ally,Rohan
-212,Ally,Shae Mo'sah
-213,Ally,Slergo
-214,Ally,Tanko
-215,Ally,Tray
-216,Ally,Volcon
-217,Ally,Akrah
-218,Ally,Daag Chokah
-219,Ally,Garshon
-220,Ally,Ketoh Wawai
-221,Ally,Kuhn Sidajj
-222,Ally,Maag Halan
-223,Ally,Oaki
-224,Ally,Onya
-225,Ally,Sprinn
-226,Ally,Tasho
-227,Ally,Zooki
-228,Ally,Zumi
-229,Ally,Chio
-230,Ally,Damia
-231,Ally,Daz
-232,Ally,Keo Ruug
-233,Ally,Kula
-234,Ally,Maca
-235,Ally,Natie
-236,Ally,Peeks
-237,Ally,Pepp
-238,Ally,The Great Deku Tree
-239,Ally,Walton
-240,Ally,Blynne
-241,Ally,Jini
-242,Ally,Ka'o Makagh
-243,Ally,Loone
-244,Ally,Malanya
-245,Ally,Padok
-246,Ally,Perosa
-247,Ally,Phanna
-248,Ally,Pumaag Nitae
-249,Ally,Roscoe
-250,Ally,Shae Katha
-251,Ally,Shoqa Tatone
-252,Ally,Straia
-253,Ally,Suzuna
-254,Ally,Ya Naga
-255,Ally,Barta
-256,Ally,Calisa
-257,Ally,Eighth Heroine
-258,Ally,Gartan
-259,Ally,Lukan
-260,Ally,Seven Heroines
-261,Ally,Anche
-262,Ally,Benja
-263,Ally,Dako Tah
-264,Ally,Daqo Chisay
-265,Ally,Dila Maag
-266,Ally,Dillie
-267,Ally,Hawa Koth
-268,Ally,Jee Noh
-269,Ally,Jora
-270,Ally,Kay Noh
-271,Ally,Keive Tala
-272,Ally,Kema Zoos
-273,Ally,Konora
-274,Ally,Korsh O'hu
-275,Ally,Kyra
-276,Ally,Misae Suma
-277,Ally,Patricia
-278,Ally,Pokki
-279,Ally,Raqa Zunzo
-280,Ally,Riju
-281,Ally,Shabonne
-282,Ally,Strade
-283,Ally,Sudrey
-284,Ally,Takama Shiri
-285,Ally,Tali
-286,Ally,Tera
-287,Ally,Tho Kayu
-288,Ally,Ardin
-289,Ally,Ashai
-290,Ally,Aurie Taamu
-291,Ally,Babi
-292,Ally,Bertri
-293,Ally,Bozai
-294,Ally,Buliara
-295,Ally,Calyban
-296,Ally,Cara
-297,Ally,Dalia
-298,Ally,Danda
-299,Ally,Deltan
-300,Ally,Dina
-301,Ally,Dorrah
-302,Ally,Essa
-303,Ally,Estan
-304,Ally,Fegran
-305,Ally,Frelly
-306,Ally,Frita
-307,Ally,Furosa
-308,Ally,Greta
-309,Ally,Isha
-310,Ally,Jules
-311,Ally,Kalani
-312,Ally,Katta
-313,Ally,Kohm
-314,Ally,Kotta
-315,Ally,Laine
-316,Ally,Lashley
-317,Ally,Leena
-318,Ally,Liana
-319,Ally,Lorn
-320,Ally,Lyndae
-321,Ally,Makure
-322,Ally,Malena
-323,Ally,Marta
-324,Ally,Merina
-325,Ally,Muava
-326,Ally,Nali
-327,Ally,Nellie
-328,Ally,Olu
-329,Ally,Padda
-330,Ally,Pasha
-331,Ally,Pearle
-332,Ally,Ploka
-333,Ally,Pritana
-334,Ally,Pyra
-335,Ally,Reeza
-336,Ally,Rima
-337,Ally,Risa
-338,Ally,Romah
-339,Ally,Rotana
-340,Ally,Saula
-341,Ally,Smaude
-342,Ally,Spera
-343,Ally,Sumati
-344,Ally,Tauma
-345,Ally,Teake
-346,Ally,Traysi
-347,Ally,Yaido
-348,Ally,Emri
-349,Ally,Guy
-350,Ally,Kachoo
-351,Ally,Maike
-352,Ally,Nobiro
-353,Ally,Ripp
-354,Ally,Robsten
-355,Ally,Shaillu
-356,Ally,Vilia
-357,Ally,Canolo
-358,Ally,Flaxel
-359,Ally,Ishto Soh
-360,Ally,Joloo Nah
-361,Ally,Keeha Yoog
-362,Ally,Kema Kosassa
-363,Ally,Kihiro Moh
-364,Ally,Kuh Takkar
-366,Ally,Maypin
-367,Ally,Moza
-368,Ally,Oliff
-369,Ally,Palme
-370,Ally,Piaffe
-371,Ally,Pirou
-372,Ally,Sasa Kai
-373,Ally,Sesami
-374,Ally,Sho Dantu
-375,Ally,Suma Sahma
-376,Ally,Falmark
-377,Ally,Teba
-378,Ally,Tulin
-379,Ally,Goma Asaagh
-380,Ally,Hia Miu
-381,Ally,Kiah Toza
-382,Ally,Maka Rah
-383,Ally,Mozo Shenno
-384,Ally,Noe Rajee
-385,Ally,Qaza Tokki
-386,Ally,Rok Uwog
-387,Ally,Selmie
-388,Ally,Sha Warvo
-389,Ally,Shada Naw
-390,Ally,To Quomo
-391,Ally,Danton
-392,Ally,Harlow
-393,Ally,Harry (Breath of the Wild)
-394,Ally,Juannelle
-395,Ally,Mary (Breath of the Wild)
-396,Ally,Monkton
-397,Ally,Rin Oyaa
-398,Ally,Sha Gehma
-399,Ally,Varke
-400,Ally,Ariane
-401,Ally,Bareeda Naag
-402,Ally,Cree
-403,Ally,Dunba Taag
-404,Ally,Galli
-405,Ally,Gee Ha'rah
-406,Ally,Geggle
-407,Ally,Genli
-408,Ally,Gesane
-409,Ally,Kah Okeo
-410,Ally,Kaysa
-411,Ally,Kheel
-412,Ally,Kotts
-413,Ally,Lanno Kooh
-414,Ally,Lester
-415,Ally,Modar
-416,Ally,Molli
-417,Ally,Notts
-418,Ally,Pondo
-419,Ally,Ponthos
-420,Ally,Rona Kachta
-421,Ally,Shae Loya
-422,Ally,Sheem Dagoze
-423,Ally,Tena Ko'sah
-424,Ally,Voo Lota
-425,Ally,Akh Va'quot
-426,Ally,Amali
-427,Ally,Bedoli
-428,Ally,Cecili
-429,Ally,Harth
-430,Ally,Huck
-431,Ally,Jogo
-432,Ally,Juney
-433,Ally,Kaneli
-434,Ally,Laissa
-435,Ally,Mazli
-436,Ally,Misa
-437,Ally,Nekk
-438,Ally,Saki
-439,Ally,Verla
-440,Ally,Gruve
-441,Ally,Ledo
-442,Ally,Tona
-443,Ally,Tottika
-444,Ally,Tula
-445,Ally,Eryck
-446,Ally,Dagah Keek
-447,Ally,Mezza Lo
-448,Ally,Rucco Maag
-449,Ally,Sidon
-450,Ally,Soh Kofi
-451,Ally,Torfeau
-452,Ally,Bazz
-453,Ally,Cleff
-454,Ally,Dento
-455,Ally,Dunma
-456,Ally,Finley
-457,Ally,Fronk
-458,Ally,Gaddison
-459,Ally,Jiahto
-460,Ally,Kayden
-461,Ally,Keye
-462,Ally,King Dorephan
-463,Ally,Kodah
-464,Ally,Laflat
-465,Ally,Laruta
-466,Ally,Marot
-467,Ally,Muzu
-468,Ally,Ne'ez Yohma
-469,Ally,Reagah
-470,Ally,Rivan
-471,Ally,Seggin
-472,Ally,Trello
-473,Ally,Tumbo
-474,Ally,Shai Yota
-475,Ally,Ami
-476,Ally,Daka Tuss
-477,Ally,Izra
-478,Ally,Kaya Wan
-479,Ally,Lawdon
-480,Ally,Quince
-481,Ally,Satty
-482,Ally,Sheh Rata
-483,Ally,Yolero
-484,Ally,Jitan Sa'mi
-485,Ally,Tahno O'ah
-486,Ally,Agus
-487,Ally,Celessa
-488,Ally,Garill
-489,Ally,Joute
-490,Ally,Letty
-491,Ally,Spinch (Horse)
-492,Ally,Spinch (Hylian)
-493,Ally,Toma
-494,Ally,Calip
-495,Ally,Dow Na'eh
-496,Ally,Flavi
-497,Ally,Garini
-498,Ally,Kah Yah
-499,Ally,Kam Urog
-500,Ally,Mimos
-501,Ally,Muwo Jeem
-502,Ally,Perda
-503,Ally,Tawa Jinn
-504,Ally,Teli
-505,Ally,Wabbin
-506,Ally,Amira
-507,Ally,Aster
-508,Ally,Azu
-509,Ally,Clavia
-510,Ally,Dantz
-511,Ally,Horned Statue
-512,Ally,Ivee
-513,Ally,Karin
-514,Ally,Koyin
-515,Ally,Leop
-516,Ally,Manny (Breath of the Wild)
-517,Ally,Medda
-518,Ally,Myahm Agana
-519,Ally,Nack
-520,Ally,Narah
-521,Ally,Nebb
-522,Ally,Nikki
-523,Ally,Prima
-524,Ally,Pruce
-525,Ally,Purah
-526,Ally,Ralera
-527,Ally,Reede
-528,Ally,Rhodes
-529,Ally,Sayge
-530,Ally,Sefaro
-531,Ally,Seldon
-532,Ally,Senna
-533,Ally,Sophie
-534,Ally,Symin
-535,Ally,Tamana
-536,Ally,Teebo
-537,Ally,Thadd
-538,Ally,Tokk
-539,Ally,Uma
-540,Ally,Worten
-541,Ally,Armes
-542,Ally,Chessica
-543,Ally,Cloyne
-544,Ally,Kiana
-545,Ally,Kinov
-546,Ally,Mubs
-547,Ally,Numar
-548,Ally,Rozel
-549,Ally,Sebasto
-550,Ally,Yah Rin
-551,Ally,Zuta
-552,Ally,Chaas Qeta
-553,Ally,Korgu Chideh
-554,Ally,Mimo
-555,Ally,Anly
-556,Ally,Brokka
-557,Ally,Bugut
-558,Ally,Cima
-559,Ally,Cotera
-560,Ally,Darton
-561,Ally,Domidak
-562,Ally,Giro
-563,Ally,Ha Dahamar
-564,Ally,Hila Rao
-565,Ally,Hino
-566,Ally,Kampo
-567,Ally,Magda
-568,Ally,Prissen
-569,Ally,Qukah Nata
-570,Ally,Ree Dahee
-571,Ally,Rensa
-572,Ally,Sagessa
-573,Ally,Shai Utoh
-574,Ally,Shay
-575,Ally,Shee Vaneer
-576,Ally,Shee Venath
-577,Ally,Shibo
-578,Ally,Shoda Sah
-579,Ally,Tasseren
-580,Ally,Toto Sah
-581,Ally,Cado
-582,Ally,Claree
-583,Ally,Cottla
-584,Ally,Dorian
-585,Ally,Impa
-586,Ally,Koko
-587,Ally,Lakna Rokee
-588,Ally,Lasli
-589,Ally,Mellie
-590,Ally,Nanna
-591,Ally,Olkin
-592,Ally,Ollie
-593,Ally,Paya
-594,Ally,Rola
-595,Ally,Steen
-596,Ally,Ta'loh Naeg
-597,Ally,Trissa
-598,Enemy,Enemy
-599,Enemy,Black Bokoblin
-600,Enemy,Black Lizalfos
-601,Enemy,Black Moblin
-602,Enemy,Blizzrobe
-603,Enemy,Blue Bokoblin
-604,Enemy,Blue Lizalfos
-605,Enemy,Blue-Maned Lynel
-606,Enemy,Blue Moblin
-607,Enemy,Bokoblin
-608,Enemy,Chuchu
-611,Enemy,Cursed Bokoblin
-612,Enemy,Cursed Lizalfos
-613,Enemy,Cursed Moblin
-614,Enemy,Decayed Guardian
-615,Enemy,Electric Chuchu
-618,Enemy,Electric Keese
-619,Enemy,Electric Lizalfos
-620,Enemy,Electric Wizzrobe
-621,Enemy,Fire-Breath Lizalfos
-622,Enemy,Fire Chuchu
-625,Enemy,Fire Keese
-626,Enemy,Fire Wizzrobe
-627,Enemy,Forest Octorok
-628,Enemy,Frost Pebblit
-629,Enemy,Golden Bokoblin
-630,Enemy,Golden Lizalfos
-631,Enemy,Golden Lynel
-632,Enemy,Golden Moblin
-633,Enemy,Guardian Stalker
-634,Enemy,Guardian Scout I
-635,Enemy,Guardian Scout II
-636,Enemy,Guardian Scout III
-637,Enemy,Guardian Scout IV
-638,Enemy,Guardian Skywatcher
-639,Enemy,Guardian Turret
-640,Enemy,Ice Chuchu
-643,Enemy,Ice Keese
-644,Enemy,Ice-Breath Lizalfos
-645,Enemy,Ice Wizzrobe
-646,Enemy,Igneo Pebblit
-647,Enemy,Keese
-648,Enemy,Lizalfos
-649,Enemy,Lynel
-650,Enemy,Meteo Wizzrobe
-651,Enemy,Moblin
-652,Enemy,Rock Octorok
-653,Enemy,Sentry
-654,Enemy,Silver Bokoblin
-655,Enemy,Silver Lizalfos
-656,Enemy,Silver Lynel
-657,Enemy,Silver Moblin
-658,Enemy,Sky Octorok
-659,Enemy,Snow Octorok
-660,Enemy,Stalizalfos
-661,Enemy,Stalkoblin
-662,Enemy,Stalmoblin
-663,Enemy,Stone Pebblit
-664,Enemy,Thunder Wizzrobe
-665,Enemy,Treasure Octorok
-666,Enemy,Water Octorok
-667,Enemy,White-Maned Lynel
-668,Enemy,Yiga Blademaster
-669,Enemy,Yiga Footsoldier
+Type,Name
+Boss,Stone Talus
+Boss,Stone Talus (Junior)
+Boss,Stone Talus (Senior)
+Boss,Stone Talus (Luminous)
+Boss,Stone Talus (Rare)
+Boss,Igneo Talus
+Boss,Frost Talus
+Boss,Hinox
+Boss,Blue Hinox
+Boss,Black Hinox
+Boss,Stalnox
+Boss,Molduga
+Boss,Igneo Talus Titan
+Boss,Molduking
+Boss,Windblight Ganon
+Boss,Fireblight Ganon
+Boss,Thunderblight Ganon
+Boss,Waterblight Ganon
+Boss,Master Kohga
+Boss,Monk Maz Koshia
+Boss,Calamity Ganon
+Boss,Dark Beast Ganon
+Ally,Baddek
+Ally,Bamboo
+Ally,Banji
+Ally,Baumar
+Ally,Bayge
+Ally,Beedle
+Ally,Bolson
+Ally,Brigo
+Ally,Cambo
+Ally,Chabi
+Ally,Chork
+Ally,Chumin
+Ally,Dabi
+Ally,Daruk
+Ally,Dauntless
+Ally,Dinraal
+Ally,Ena
+Ally,Endai
+Ally,Epona
+Ally,Farosh
+Ally,Fyson
+Ally,Goflam
+Ally,Greyson
+Ally,Heehl
+Ally,Hestu
+Ally,Hudson
+Ally,Hylia
+Ally,Kabetta
+Ally,Kanny
+Ally,Kapson
+Ally,Karson
+Ally,Kass
+Ally,Kenyo
+Ally,Kilton
+Ally,Leekah
+Ally,Link
+Ally,Meeshy
+Ally,Meghyn
+Ally,Mei
+Ally,Mils
+Ally,Mina
+Ally,Mipha
+Ally,Misko
+Ally,Nat
+Ally,Naydra
+Ally,Nazbi
+Ally,Pelison
+Ally,Pikango
+Ally,Regan
+Ally,Revali
+Ally,Rhondson
+Ally,Rik
+Ally,Ronn
+Ally,Savelle
+Ally,Sherfin
+Ally,Sho
+Ally,Sorelia
+Ally,Spoone
+Ally,Toren
+Ally,Totsuna
+Ally,Tye
+Ally,Urbosa
+Ally,Yammo
+Ally,Princess Zelda
+Ally,Zyle
+Ally,Laroba
+Ally,Naddon
+Ally,Pitar
+Ally,Dah Hesho
+Ally,Dmitri
+Ally,Gleema
+Ally,Jana
+Ally,Kah Mael
+Ally,Kaifa
+Ally,Ke'nai Shakah
+Ally,Lonni
+Ally,Nell
+Ally,Rex
+Ally,Stamm
+Ally,Tenne
+Ally,Tutsuwa Nima
+Ally,Ze Kasho
+Ally,Granté
+Ally,Hagie
+Ally,Hunnie
+Ally,Moggs
+Ally,Monari
+Ally,Ruli
+Ally,Ritaag Zumo
+Ally,Tu Ka'loh
+Ally,Aya
+Ally,Cherry
+Ally,Hoz
+Ally,Jerrin
+Ally,Katosa Aug
+Ally,Khini
+Ally,Nobo
+Ally,Robbie
+Ally,Rudi
+Ally,Zuna Kai
+Ally,Glendo
+Ally,King Rhoam
+Ally,Etsu Korima
+Ally,Ja Baij
+Ally,Keh Namut
+Ally,Old Man
+Ally,Oman Au
+Ally,Owa Daim
+Ally,Rohta Chigah
+Ally,Ruvo Korbah
+Ally,Yowaka Ita
+Ally,Aliza
+Ally,Benny
+Ally,Bosh Kala
+Ally,Botrick
+Ally,Canni
+Ally,Dah Kaso
+Ally,Dai
+Ally,Gotter
+Ally,Haite
+Ally,Kaam Ya'tak
+Ally,Katah Chuki
+Ally,Monya Toma
+Ally,Myti
+Ally,Namika Ozz
+Ally,Noya Neha
+Ally,Parcy
+Ally,Rota Ooh
+Ally,Saas Ko'sah
+Ally,Toffa
+Ally,Trott
+Ally,Wahgo Katta
+Ally,Zalta Wa
+Ally,Branli
+Ally,Konba
+Ally,Maag No'rah
+Ally,Mijah Rokee
+Ally,Mogg Latan
+Ally,Shira Gomar
+Ally,Toh Yahsa
+Ally,Yunobo
+Ally,Ashe
+Ally,Axyl
+Ally,Bladon
+Ally,Bohrin
+Ally,Boldon
+Ally,Breen
+Ally,Daqa Koh
+Ally,Dayto
+Ally,Dorill
+Ally,Douma
+Ally,Drak
+Ally,Dugby
+Ally,Fin
+Ally,Gaile
+Ally,Gonguron
+Ally,Gorae Torr
+Ally,Grapp
+Ally,Jengo
+Ally,Kairo
+Ally,Karsh
+Ally,Kayra Mah
+Ally,Kima
+Ally,Kish
+Ally,Mayro
+Ally,Mirro Shaz
+Ally,Mo'a Keet
+Ally,Molo
+Ally,Offrak
+Ally,Ozunda
+Ally,Qua Raym
+Ally,Russ
+Ally,Sah Dahaj
+Ally,Shamae
+Ally,Shora Hah
+Ally,Tah Muhl
+Ally,Zorona
+Ally,Aji
+Ally,Bargoh
+Ally,Bludo
+Ally,Fugo
+Ally,Krane
+Ally,Pyle
+Ally,Ramella
+Ally,Rogaro
+Ally,Rohan
+Ally,Shae Mo'sah
+Ally,Slergo
+Ally,Tanko
+Ally,Tray
+Ally,Volcon
+Ally,Akrah
+Ally,Daag Chokah
+Ally,Garshon
+Ally,Ketoh Wawai
+Ally,Kuhn Sidajj
+Ally,Maag Halan
+Ally,Oaki
+Ally,Onya
+Ally,Sprinn
+Ally,Tasho
+Ally,Zooki
+Ally,Zumi
+Ally,Chio
+Ally,Damia
+Ally,Daz
+Ally,Keo Ruug
+Ally,Kula
+Ally,Maca
+Ally,Natie
+Ally,Peeks
+Ally,Pepp
+Ally,The Great Deku Tree
+Ally,Walton
+Ally,Blynne
+Ally,Jini
+Ally,Ka'o Makagh
+Ally,Loone
+Ally,Malanya
+Ally,Padok
+Ally,Perosa
+Ally,Phanna
+Ally,Pumaag Nitae
+Ally,Roscoe
+Ally,Shae Katha
+Ally,Shoqa Tatone
+Ally,Straia
+Ally,Suzuna
+Ally,Ya Naga
+Ally,Barta
+Ally,Calisa
+Ally,Eighth Heroine
+Ally,Gartan
+Ally,Lukan
+Ally,Seven Heroines
+Ally,Anche
+Ally,Benja
+Ally,Dako Tah
+Ally,Daqo Chisay
+Ally,Dila Maag
+Ally,Dillie
+Ally,Hawa Koth
+Ally,Jee Noh
+Ally,Jora
+Ally,Kay Noh
+Ally,Keive Tala
+Ally,Kema Zoos
+Ally,Konora
+Ally,Korsh O'hu
+Ally,Kyra
+Ally,Misae Suma
+Ally,Patricia
+Ally,Pokki
+Ally,Raqa Zunzo
+Ally,Riju
+Ally,Shabonne
+Ally,Strade
+Ally,Sudrey
+Ally,Takama Shiri
+Ally,Tali
+Ally,Tera
+Ally,Tho Kayu
+Ally,Ardin
+Ally,Ashai
+Ally,Aurie Taamu
+Ally,Babi
+Ally,Bertri
+Ally,Bozai
+Ally,Buliara
+Ally,Calyban
+Ally,Cara
+Ally,Dalia
+Ally,Danda
+Ally,Deltan
+Ally,Dina
+Ally,Dorrah
+Ally,Essa
+Ally,Estan
+Ally,Fegran
+Ally,Frelly
+Ally,Frita
+Ally,Furosa
+Ally,Greta
+Ally,Isha
+Ally,Jules
+Ally,Kalani
+Ally,Katta
+Ally,Kohm
+Ally,Kotta
+Ally,Laine
+Ally,Lashley
+Ally,Leena
+Ally,Liana
+Ally,Lorn
+Ally,Lyndae
+Ally,Makure
+Ally,Malena
+Ally,Marta
+Ally,Merina
+Ally,Muava
+Ally,Nali
+Ally,Nellie
+Ally,Olu
+Ally,Padda
+Ally,Pasha
+Ally,Pearle
+Ally,Ploka
+Ally,Pritana
+Ally,Pyra
+Ally,Reeza
+Ally,Rima
+Ally,Risa
+Ally,Romah
+Ally,Rotana
+Ally,Saula
+Ally,Smaude
+Ally,Spera
+Ally,Sumati
+Ally,Tauma
+Ally,Teake
+Ally,Traysi
+Ally,Yaido
+Ally,Emri
+Ally,Guy
+Ally,Kachoo
+Ally,Maike
+Ally,Nobiro
+Ally,Ripp
+Ally,Robsten
+Ally,Shaillu
+Ally,Vilia
+Ally,Canolo
+Ally,Flaxel
+Ally,Ishto Soh
+Ally,Joloo Nah
+Ally,Keeha Yoog
+Ally,Kema Kosassa
+Ally,Kihiro Moh
+Ally,Kuh Takkar
+Ally,Maypin
+Ally,Moza
+Ally,Oliff
+Ally,Palme
+Ally,Piaffe
+Ally,Pirou
+Ally,Sasa Kai
+Ally,Sesami
+Ally,Sho Dantu
+Ally,Suma Sahma
+Ally,Falmark
+Ally,Teba
+Ally,Tulin
+Ally,Goma Asaagh
+Ally,Hia Miu
+Ally,Kiah Toza
+Ally,Maka Rah
+Ally,Mozo Shenno
+Ally,Noe Rajee
+Ally,Qaza Tokki
+Ally,Rok Uwog
+Ally,Selmie
+Ally,Sha Warvo
+Ally,Shada Naw
+Ally,To Quomo
+Ally,Danton
+Ally,Harlow
+Ally,Harry (Breath of the Wild)
+Ally,Juannelle
+Ally,Mary (Breath of the Wild)
+Ally,Monkton
+Ally,Rin Oyaa
+Ally,Sha Gehma
+Ally,Varke
+Ally,Ariane
+Ally,Bareeda Naag
+Ally,Cree
+Ally,Dunba Taag
+Ally,Galli
+Ally,Gee Ha'rah
+Ally,Geggle
+Ally,Genli
+Ally,Gesane
+Ally,Kah Okeo
+Ally,Kaysa
+Ally,Kheel
+Ally,Kotts
+Ally,Lanno Kooh
+Ally,Lester
+Ally,Modar
+Ally,Molli
+Ally,Notts
+Ally,Pondo
+Ally,Ponthos
+Ally,Rona Kachta
+Ally,Shae Loya
+Ally,Sheem Dagoze
+Ally,Tena Ko'sah
+Ally,Voo Lota
+Ally,Akh Va'quot
+Ally,Amali
+Ally,Bedoli
+Ally,Cecili
+Ally,Harth
+Ally,Huck
+Ally,Jogo
+Ally,Juney
+Ally,Kaneli
+Ally,Laissa
+Ally,Mazli
+Ally,Misa
+Ally,Nekk
+Ally,Saki
+Ally,Verla
+Ally,Gruve
+Ally,Ledo
+Ally,Tona
+Ally,Tottika
+Ally,Tula
+Ally,Eryck
+Ally,Dagah Keek
+Ally,Mezza Lo
+Ally,Rucco Maag
+Ally,Sidon
+Ally,Soh Kofi
+Ally,Torfeau
+Ally,Bazz
+Ally,Cleff
+Ally,Dento
+Ally,Dunma
+Ally,Finley
+Ally,Fronk
+Ally,Gaddison
+Ally,Jiahto
+Ally,Kayden
+Ally,Keye
+Ally,King Dorephan
+Ally,Kodah
+Ally,Laflat
+Ally,Laruta
+Ally,Marot
+Ally,Muzu
+Ally,Ne'ez Yohma
+Ally,Reagah
+Ally,Rivan
+Ally,Seggin
+Ally,Trello
+Ally,Tumbo
+Ally,Shai Yota
+Ally,Ami
+Ally,Daka Tuss
+Ally,Izra
+Ally,Kaya Wan
+Ally,Lawdon
+Ally,Quince
+Ally,Satty
+Ally,Sheh Rata
+Ally,Yolero
+Ally,Jitan Sa'mi
+Ally,Tahno O'ah
+Ally,Agus
+Ally,Celessa
+Ally,Garill
+Ally,Joute
+Ally,Letty
+Ally,Spinch (Horse)
+Ally,Spinch (Hylian)
+Ally,Toma
+Ally,Calip
+Ally,Dow Na'eh
+Ally,Flavi
+Ally,Garini
+Ally,Kah Yah
+Ally,Kam Urog
+Ally,Mimos
+Ally,Muwo Jeem
+Ally,Perda
+Ally,Tawa Jinn
+Ally,Teli
+Ally,Wabbin
+Ally,Amira
+Ally,Aster
+Ally,Azu
+Ally,Clavia
+Ally,Dantz
+Ally,Horned Statue
+Ally,Ivee
+Ally,Karin
+Ally,Koyin
+Ally,Leop
+Ally,Manny (Breath of the Wild)
+Ally,Medda
+Ally,Myahm Agana
+Ally,Nack
+Ally,Narah
+Ally,Nebb
+Ally,Nikki
+Ally,Prima
+Ally,Pruce
+Ally,Purah
+Ally,Ralera
+Ally,Reede
+Ally,Rhodes
+Ally,Sayge
+Ally,Sefaro
+Ally,Seldon
+Ally,Senna
+Ally,Sophie
+Ally,Symin
+Ally,Tamana
+Ally,Teebo
+Ally,Thadd
+Ally,Tokk
+Ally,Uma
+Ally,Worten
+Ally,Armes
+Ally,Chessica
+Ally,Cloyne
+Ally,Kiana
+Ally,Kinov
+Ally,Mubs
+Ally,Numar
+Ally,Rozel
+Ally,Sebasto
+Ally,Yah Rin
+Ally,Zuta
+Ally,Chaas Qeta
+Ally,Korgu Chideh
+Ally,Mimo
+Ally,Anly
+Ally,Brokka
+Ally,Bugut
+Ally,Cima
+Ally,Cotera
+Ally,Darton
+Ally,Domidak
+Ally,Giro
+Ally,Ha Dahamar
+Ally,Hila Rao
+Ally,Hino
+Ally,Kampo
+Ally,Magda
+Ally,Prissen
+Ally,Qukah Nata
+Ally,Ree Dahee
+Ally,Rensa
+Ally,Sagessa
+Ally,Shai Utoh
+Ally,Shay
+Ally,Shee Vaneer
+Ally,Shee Venath
+Ally,Shibo
+Ally,Shoda Sah
+Ally,Tasseren
+Ally,Toto Sah
+Ally,Cado
+Ally,Claree
+Ally,Cottla
+Ally,Dorian
+Ally,Impa
+Ally,Koko
+Ally,Lakna Rokee
+Ally,Lasli
+Ally,Mellie
+Ally,Nanna
+Ally,Olkin
+Ally,Ollie
+Ally,Paya
+Ally,Rola
+Ally,Steen
+Ally,Ta'loh Naeg
+Ally,Trissa
+Enemy,Enemy
+Enemy,Black Bokoblin
+Enemy,Black Lizalfos
+Enemy,Black Moblin
+Enemy,Blizzrobe
+Enemy,Blue Bokoblin
+Enemy,Blue Lizalfos
+Enemy,Blue-Maned Lynel
+Enemy,Blue Moblin
+Enemy,Bokoblin
+Enemy,Chuchu
+Enemy,Cursed Bokoblin
+Enemy,Cursed Lizalfos
+Enemy,Cursed Moblin
+Enemy,Decayed Guardian
+Enemy,Electric Chuchu
+Enemy,Electric Keese
+Enemy,Electric Lizalfos
+Enemy,Electric Wizzrobe
+Enemy,Fire-Breath Lizalfos
+Enemy,Fire Chuchu
+Enemy,Fire Keese
+Enemy,Fire Wizzrobe
+Enemy,Forest Octorok
+Enemy,Frost Pebblit
+Enemy,Golden Bokoblin
+Enemy,Golden Lizalfos
+Enemy,Golden Lynel
+Enemy,Golden Moblin
+Enemy,Guardian Stalker
+Enemy,Guardian Scout I
+Enemy,Guardian Scout II
+Enemy,Guardian Scout III
+Enemy,Guardian Scout IV
+Enemy,Guardian Skywatcher
+Enemy,Guardian Turret
+Enemy,Ice Chuchu
+Enemy,Ice Keese
+Enemy,Ice-Breath Lizalfos
+Enemy,Ice Wizzrobe
+Enemy,Igneo Pebblit
+Enemy,Keese
+Enemy,Lizalfos
+Enemy,Lynel
+Enemy,Meteo Wizzrobe
+Enemy,Moblin
+Enemy,Rock Octorok
+Enemy,Sentry
+Enemy,Silver Bokoblin
+Enemy,Silver Lizalfos
+Enemy,Silver Lynel
+Enemy,Silver Moblin
+Enemy,Sky Octorok
+Enemy,Snow Octorok
+Enemy,Stalizalfos
+Enemy,Stalkoblin
+Enemy,Stalmoblin
+Enemy,Stone Pebblit
+Enemy,Thunder Wizzrobe
+Enemy,Treasure Octorok
+Enemy,Water Octorok
+Enemy,White-Maned Lynel
+Enemy,Yiga Blademaster
+Enemy,Yiga Footsoldier
